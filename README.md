@@ -1,6 +1,5 @@
 # 90-percent-prediction-accuracy-Boston-Housing-Data
 
-Project: Boston Housing Data Analysis and Prediction
 This project focuses on analyzing the Boston Housing dataset to explore the relationships between various factors (such as crime rate, average number of rooms, property tax, etc.) and the median value of owner-occupied homes. By leveraging Python libraries like Pandas, Matplotlib, and Seaborn for data exploration and visualization, I aim to gain insights into the key drivers of housing prices in Boston.
 
 Key Objectives:
